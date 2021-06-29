@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Use</string>
+    <string name="add_to_useless_text">Add To UseLess</string>
+    <string name="add_to_usefull_text">Add To UseFull</string>
+</resources>
