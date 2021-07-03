@@ -1,0 +1,1 @@
+Launcher application for Android 7.0+ with the ability to hide the distracting appilications from the main menu.
